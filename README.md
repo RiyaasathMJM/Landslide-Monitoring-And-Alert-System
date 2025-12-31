@@ -1,5 +1,5 @@
 # Landslide-Monitoring-And-Alert-System
-📌 Project Overview
+📌 Project Overview                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 This project is an IoT-based Landslide Monitoring System designed to detect early signs of landslides by monitoring soil moisture, ground vibrations, and temperature.
 The system uses an ATmega30 microcontroller to process sensor data, an ESP32 module to send data to the cloud (ThingsBoard), and a buzzer with buffer circuit to provide instant local alerts.
 Real-time monitoring, historical data storage, and alerts help prevent landslide-related damages.
